@@ -1,0 +1,28 @@
+{
+  "session_id": "math-format-example",
+  "agent": "format-example",
+  "provenance": {
+    "source_kind": "synthetic_format_example",
+    "live_inference_called": false
+  },
+  "messages": [
+    {
+      "role": "system",
+      "content": "你是一位数学助手。",
+      "timestamp": null,
+      "model": null
+    },
+    {
+      "role": "user",
+      "content": "请计算 17 × 23。",
+      "timestamp": null,
+      "model": null
+    },
+    {
+      "role": "assistant",
+      "content": "17 × 23 = 391。",
+      "timestamp": null,
+      "model": null
+    }
+  ]
+}
