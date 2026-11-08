@@ -7,3 +7,5 @@ venv/
 logs/
 output/
 dataset/
+
+.work/

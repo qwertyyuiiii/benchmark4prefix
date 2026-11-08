@@ -29,3 +29,7 @@ python3 -m unittest discover -s tests -v
 ```
 
 测试使用本地模拟响应与临时目录，无需 API key 或网络连接。
+
+## 开源 Agent 接入测试
+
+已在 WSL 中以 smolagents `ToolCallingAgent` + DeepSeek 真实 API 完成工具调用、采集、导出及校验。可复现步骤、离线模式和实际结果见 [Agent 测试说明](docs/agent_test.md)。
